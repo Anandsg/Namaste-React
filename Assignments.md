@@ -2,39 +2,39 @@
 
 ## `Theory Questions :`
 
-### What is `Emmet`?
+What is `Emmet`?
 
-### Difference between a `Library and Framework``
+Difference between a `Library and Framework``
 
-### What is `CDN`? Why do we use it?
+What is `CDN`? Why do we use it?
 
-### Why is `React` known as `React`?
+Why is `React` known as `React`?
 
-### What is `crossorigin` in the script tag?
+What is `crossorigin` in the script tag?
 
-### What is the difference between `React and ReactDOM`?
+What is the difference between `React and ReactDOM`?
 
-### Difference between `react.development.js` and `react.production.js` files via CDN
+Difference between `react.development.js` and `react.production.js` files via CDN
 
-### What is `async and defer`?
+What is `async and defer`?
 
 ## `Coding Questions: `
 
-### Set Up Tools
+Set Up Tools
 
-### Create a `New Git Repo`
+Create a `New Git Repo`
 
-### Build Your First `Hello World` Program
+Build Your First `Hello World` Program
 
-### Create an Element
+Create an Element
 
-### Create `Nested React Elements`
+Create `Nested React Elements`
 
-### Use `root.render`
+Use `root.render`
 
-### Push Code to Github
+Push Code to Github
 
-### Prepare for Next Class
+Prepare for Next Class
 
 - Familiarize yourself with Arrow Functions.
 - References:
