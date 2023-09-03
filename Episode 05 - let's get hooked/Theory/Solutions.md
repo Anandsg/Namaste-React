@@ -88,3 +88,23 @@ Hooks allow you to reuse stateful logic without changing your component hierarch
 - useRef: It returns a ref object with a current property. The ref object is mutable. It is mainly used to access a child component imperatively.
 - useLayoutEffect: It fires at the end of all DOM mutations. It's best to use useEffect as much as possible over this one as the useLayoutEffect fires synchronously.
 - useDebugValue: Helps to display a label in React DevTools for custom hooks.
+
+## Why do we need `useState Hook`?
+
+`useState hook` is used to maintain the state in our React application. It keeps track of the state changes so basically useState has the ability to encapsulate local state in a functional component.
+The  useState hook is a special function that takes the `initial state` as an `argument` and `returns an array` of two entries.  UseState encapsulate only singular value from the state, for multiple state need to have useState calls.
+#### Syntax for useState hook
+```
+const [state, setState] = useState(initialstate);
+```
+#### Importing: To use useState you need to import useState from react as shown below:
+```
+import React, { useState } from "react";
+```
+we can use Hooks in Functional Components
+```
+const Example = (props) => {
+  // You can use Hooks here!
+  return <div />;
+}
+```
