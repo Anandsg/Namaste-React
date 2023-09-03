@@ -2,7 +2,7 @@
 
 **Detailed Mention of Topics and Timestamps According to Namaste React Web Series**
 
-```sh
+```
 00:01:04 – 🔧 Starting the project by using terminal
 00:03:00 – 📜 Create an npm script for starting the project in dev mode
 00:06:00 – 🚀 Tips for starting a project when you joined a new company
