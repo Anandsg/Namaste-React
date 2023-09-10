@@ -1,6 +1,5 @@
 # Chapter 05 - Let's get Hooked!
 
-
 ## Theory Assignment:
 
 - What is the `difference` between `Named export`, `Default export`, and `* as export`?
@@ -10,7 +9,6 @@
 - What are `React Hooks`?
 
 - Why do we need `useState Hook`?
-
 
 ## Coding Assignment:
 
@@ -30,6 +28,6 @@
 
 - Try to make your `search bar work`.
 
-
 ## References:
+
 - [Akshay Saini Code Link](https://bitbucket.org/namastedev/namaste-react-live/src/master/)
