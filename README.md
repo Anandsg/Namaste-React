@@ -36,6 +36,6 @@ Contributions are welcome! If you have additional resources, improvements, or su
 
 - **Akshay Saini**: Thank you for creating the "Namaste React" course and providing valuable insights into React development.
 
-- **Credits**: I'd like to extend a special thanks to my friend Pankaj for contributing PDF format assignment solutions. You can find his LinkedIn profile [here](https://www.linkedin.com/in/pankaj5214/).
+- **Credits**: I'd like to extend a special thanks to Pankaj for contributing PDF format assignment solutions. You can find his LinkedIn profile [here](https://www.linkedin.com/in/pankaj5214/).
 
 Happy learning! 🚀
