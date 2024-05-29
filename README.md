@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="200" src="https://namastedev.com/images/reel.png" alt="Namaste React Logo">
+  <img width="200" src="https://namastedevprod.s3.ap-south-1.amazonaws.com/banner+and+logos/name.png" alt="Namaste React Logo">
 </p>
 
 <h1 align="center">Namaste React 🙏</h1>
